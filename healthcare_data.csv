@@ -1,0 +1,11 @@
+patient_id,age,gender,age_group,condition,treatment_type,comorbidities,previous_admissions,readmission,treatment_success,date,health_metric
+1,45,Male,40-49,Diabetes,Medication,Hypertension,2,No,Yes,2022-01-01,70
+2,60,Female,60-69,Hypertension,Lifestyle,Diabetes,1,Yes,No,2022-02-15,65
+3,35,Female,30-39,Asthma,Medication,None,0,No,Yes,2022-03-20,80
+4,50,Male,50-59,Heart Disease,Surgery,Hypertension,3,Yes,No,2022-04-10,60
+5,28,Male,20-29,Allergies,Medication,Asthma,1,No,Yes,2022-05-05,75
+6,65,Female,60-69,Osteoporosis,Medication,Diabetes,4,Yes,No,2022-06-12,50
+7,42,Male,40-49,Hypertension,Lifestyle,None,2,No,Yes,2022-07-22,85
+8,55,Female,50-59,Diabetes,Medication,Heart Disease,3,Yes,No,2022-08-30,55
+9,30,Male,30-39,Asthma,Medication,Allergies,0,No,Yes,2022-09-18,90
+10,70,Female,70-79,Heart Disease,Surgery,Hypertension,5,Yes,No,2022-10-25,45
